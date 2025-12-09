@@ -6,8 +6,9 @@ cmake-build-*/
 .idea/
 .vscode/
 
-# Markdown documentation
+# Markdown documentation (except README)
 *.md
+!README.md
 
 # Backup files
 *.backup
