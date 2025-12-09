@@ -34,4 +34,3 @@ sbatch run_gpu.sh
 - CUDA Toolkit 11.8+
 - CMake 3.20+
 - GPU with compute capability 7.5+
-
