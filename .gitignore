@@ -1,0 +1,20 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE directories
+.idea/
+.vscode/
+
+# Markdown documentation
+*.md
+
+# Backup files
+*.backup
+
+# CUDA compiled files
+*.o
+*.exe
+
+# Log files
+*.log
